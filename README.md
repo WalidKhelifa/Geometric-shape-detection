@@ -3,6 +3,12 @@
 
 Ce projet permet la création puis la détection d'objets géometriques et reconnaissance de formes à partir d'une méthode basées sur les couleurs (HSV).
 
+Le projet est divisé en trois parties :
+
+  1. Création des filtres sur les images.
+  2. Création des formes géométriques et détection de collision.
+  3. Détection d'objets géometriques et reconnaissance de formes.
+
 * Télécharger [Qt Creator en cliquant ici](https://www.qt.io/product/development-tools) puis importer le fichier [ProjetComputerVision.pro](https://github.com/WalidKhelifa/Geometric-shape-detection/blob/main/ProjetComputerVision.pro) dans Qt Creator et lancer l'application.
 
 
