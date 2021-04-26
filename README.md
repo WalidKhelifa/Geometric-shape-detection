@@ -15,5 +15,7 @@ Le projet est divisé en trois parties :
 Quelques captures d'application :
 
 
-<img width="512" alt="Capture d’écran 2021-04-26 à 02 12 06" src="https://user-images.githubusercontent.com/56236244/116016627-1de5a980-a635-11eb-8afe-502ea549c62a.png">
+<img width="884" alt="Capture d’écran 2021-02-25 à 10 14 45" src="https://user-images.githubusercontent.com/56236244/116021240-b6812700-a63f-11eb-87f9-4d8ab60b30ea.png">
+<img width="887" alt="Capture d’écran 2021-02-25 à 10 00 42" src="https://user-images.githubusercontent.com/56236244/116021248-b97c1780-a63f-11eb-9e6b-a4f73a63aa0e.png">
+<img width="513" alt="Capture d’écran 2021-02-25 à 10 02 22" src="https://user-      images.githubusercontent.com/56236244/116021515-3d360400-a640-11eb-9c4d-48f6ce42096e.png">
 
