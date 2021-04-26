@@ -5,7 +5,7 @@ Ce projet permet la création puis la détection d'objets géometriques et recon
 
 Le projet est divisé en trois parties :
 
-  1. Création des filtres sur les images.
+  1. Création et utilisation des filtres sur les images.
   2. Création des formes géométriques et détection de collision.
   3. Détection d'objets géometriques et reconnaissance de formes.
 
