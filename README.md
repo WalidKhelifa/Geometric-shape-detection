@@ -1,9 +1,9 @@
-# Desktop application developed in QT5 for Geometric shape detection
+# Desktop application developed in QT5 for the detection of geometric objects
 ##                             Setup
 
 Ce projet permet la création puis la détection d'objets géometriques et reconnaissance de formes à partir d'une méthode basées sur les couleurs (HSV).
 
-* Télécharger [Qt Creator en cliquant ici](https://www.qt.io/product/development-tools) puis importer le fichier " ProjetComputerVision.pro " dans Qt Creator
+* Télécharger [Qt Creator en cliquant ici](https://www.qt.io/product/development-tools) puis importer le fichier [ProjetComputerVision.pro] dans Qt Creator.
 
 
 Quelques captures d'application :
